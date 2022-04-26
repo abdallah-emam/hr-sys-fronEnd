@@ -23,8 +23,8 @@ const Dashboard = () => {
     <>
       <section>
         <div className="container">
-          <h1 className="mt-4">welcome to Dashboard, {auth.name} </h1>
-          <h4 className="mt-4">All elmplyee</h4>
+          <h1 className="mt-4">Welcome to Dashboard, {auth.name} </h1>
+          <h4 className="mt-4">All elmpolyee</h4>
           <div className="row">
             <table className="table">
               <thead>

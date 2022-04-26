@@ -51,7 +51,7 @@ const Navbar = () => {
             </Link>
             <button
               onClick={handleLogout}
-              className="nav-link btn btn-danger"
+              className=" btn btn-danger"
               href="#"
             >
               log out
